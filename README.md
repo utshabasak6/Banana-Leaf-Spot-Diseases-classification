@@ -1,2 +1,2 @@
-# Banana-Leaf-Spot-Diseases-classification
-A model for classifying 4 classes from Banana Leaf
+# Sign Language Detection 
+A model for detecting sign lanuage 
